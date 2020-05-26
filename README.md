@@ -1,13 +1,13 @@
 # Live_cc_checker
 This script will check live cc and Grab proxy and check proxy if its working or not
 
-`>  _      _                             _               _             `
+```>  _      _                             _               _             `
 `> | |    (_)                           | |             | |            `
 `> | |     ___   _____    ___ ___    ___| |__   ___  ___| | _____ _ __ `
 `> | |    | \ \ / / _ \  / __/ __|  / __| '_ \ / _ \/ __| |/ / _ \ '__|`
 `> | |____| |\ V /  __/ | (_| (__  | (__| | | |  __/ (__|   <  __/ |   `
 `> |______|_| \_/ \___|  \___\___|  \___|_| |_|\___|\___|_|\_\___|_|   `
-`>                                                                      `                       
+>```                                                                      `                       
 >                                               Coded by script1337
 >                            Github : https://github.com/ScRiPt1337
 >         
