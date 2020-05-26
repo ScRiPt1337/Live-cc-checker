@@ -18,6 +18,6 @@ This script will check live cc and Grab proxy and check proxy if its working or 
 >>>             python script.py creditC proxy.txt cc.txt debug >>> {To check credit card is valid or not and to see the debug output}
 >>>             }
 ```
-
 > it's only for Education Purposes
 > I am not going to be responsible for anything
+> join us here: https://discord.gg/gkGA44z
