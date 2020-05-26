@@ -15,5 +15,6 @@ This script will check live cc and Grab proxy and check proxy if its working or 
 >>>             python script checkproxy /path/to/proxylist 100 >>> {Check if proxy is working or not}
 >>>             python script.py grabproxy 100 1000 >>> {Grab https proxys}
 >>>             python script.py creditC proxy.txt cc.txt >>> {To check credit card is valid or not}
+>>>             python script.py creditC proxy.txt cc.txt debug >>> {To check credit card is valid or not and to see the debug output}
 >>>             }
 ```
