@@ -20,4 +20,5 @@ This script will check live cc and Grab proxy and check proxy if its working or 
 ```
 > it's only for Education Purposes
 > I am not going to be responsible for anything
+
 > join us here: https://discord.gg/gkGA44z
