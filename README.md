@@ -21,7 +21,7 @@ This script will check live cc and Grab proxy and check proxy if its working or 
 > it's only for Education Purposes
 > I am not going to be responsible for anything
 
-> if your using linux your can dirctly run chxd
-> if your using windows please first install python and wsl then run win.py
+> if your using linux can run chxd
+> if your using windows run winchxd.exe
 
 > join us here: https://discord.gg/gkGA44z
