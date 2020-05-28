@@ -24,4 +24,6 @@ This script will check live cc and Grab proxy and check proxy if its working or 
 > if your using linux can run chxd
 > if your using windows run winchxd.exe
 
+> how to use video : https://www.youtube.com/watch?v=g_Hc2kmtatg
+
 > join us here: https://discord.gg/gkGA44z
