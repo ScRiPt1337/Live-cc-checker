@@ -26,7 +26,8 @@ This script will check live cc and Grab proxy and check proxy if its working or 
 > replace month with FUZZ_MN
 > replace year with FUZZ_YR
 > replace cvv with FUZZ_CVV
-> and your can run this command ./chxd creditC proxy.txt cc.txt config.txt
+> and your can run this command 
+> ./chxd creditC proxy.txt cc.txt config.txt
 
 > you also can specify the success response using this command {if any string from success.txt found in response thats  be mean card is valid }
 > ./chxd creditC proxy.txt cc.txt config.txt success.txt
