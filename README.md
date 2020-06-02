@@ -18,9 +18,10 @@ This script will check live cc and Grab proxy and check proxy if its working or 
 >>>                     ./chxd creditC proxy.txt cc.txt config.txt >>> {check credit cards using coustm api with common success response}
 >>>                     ./chxd creditC proxy.txt cc.txt config.txt success.txt >>> {check credit cards using coustm api}
 ```
-```
+
 > how to use your own api with live cc checker
 
+```
 > grab the request with burp suite which contain your credit card number and replace them with FUZZ_CC 
 > replace month with FUZZ_MN
 > replace year with FUZZ_YR
