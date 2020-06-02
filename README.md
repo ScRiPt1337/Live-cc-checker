@@ -22,15 +22,15 @@ This script will check live cc and Grab proxy and check proxy if its working or 
 > how to use your own api with live cc checker
 
 ```
-> grab the request with burp suite which contain your credit card number and replace them with FUZZ_CC 
-> replace month with FUZZ_MN
-> replace year with FUZZ_YR
-> replace cvv with FUZZ_CVV
-> and your can run this command 
-> ./chxd creditC proxy.txt cc.txt config.txt
+# grab the request with burp suite which contain your credit card number and replace them with FUZZ_CC 
+# replace month with FUZZ_MN
+# replace year with FUZZ_YR
+# replace cvv with FUZZ_CVV
+# and your can run this command 
+# ./chxd creditC proxy.txt cc.txt config.txt
 
-> you also can specify the success response using this command {if any string from success.txt found in response thats  be mean card is valid }
-> ./chxd creditC proxy.txt cc.txt config.txt success.txt
+# you also can specify the success response using this command {if any string from success.txt found in response thats  be mean card is valid }
+# ./chxd creditC proxy.txt cc.txt config.txt success.txt
 ```
 > it's only for Education Purposes
 > I am not going to be responsible for anything
