@@ -26,6 +26,7 @@ This script will check live cc and Grab proxy and check proxy if its working or 
 # replace month with FUZZ_MN
 # replace year with FUZZ_YR
 # replace cvv with FUZZ_CVV
+# DNT: 1 add this in the end of your header
 # and your can run this command 
 # ./chxd creditC proxy.txt cc.txt config.txt
 
